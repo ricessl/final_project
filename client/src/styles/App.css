@@ -1,0 +1,27 @@
+body {
+  background-color: #f8f1e9;
+  font-family: Arial, sans-serif;
+}
+
+h1, h2, h3, h4 {
+  color: #8B4513;
+}
+
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+  background-color: #8B4513;
+  border-color: #8B4513;
+}
+
+.btn-primary:hover {
+  background-color: #723a0f;
+  border-color: #723a0f;
+}
+
+.navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
